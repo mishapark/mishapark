@@ -1,6 +1,6 @@
 <h3 title="hehehe"> Hey 👋, I'm Misha!</h3>
 
-[![GitHub](https://img.shields.io/badge/--#E4405F?logo=instagram&logoColor=ffffff)](https://instagram.com/_parkmisha)
+[![GitHub](https://img.shields.io/badge/--E4405F?logo=instagram&logoColor=ffffff)](https://instagram.com/_parkmisha)
 <a href="https://www.facebook.com/profile.php?id=100009175092863">
   <img align="left" alt="Jaskirat's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
