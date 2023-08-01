@@ -51,8 +51,6 @@
 ![Misha's github stats](https://github-readme-stats.vercel.app/api?username=mishapark&show_icons=true&theme=tokyonight)
 <img  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mishapark&theme=tokyonight" alt="mystreak"/>
 
-<p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishapark&theme=tokyonight&layout=compact" alt="mystreak"/>
-</p>
 
 
