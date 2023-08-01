@@ -3,12 +3,11 @@
 [![LinkedIn](https://img.shields.io/badge/--0A66C2?logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mikhailpak/)
 [![Instagram](https://img.shields.io/badge/--E4405F?logo=instagram&logoColor=ffffff)](https://instagram.com/_parkmisha)
 [![Twitter](https://img.shields.io/badge/--1D9BF0?logo=twitter&logoColor=ffffff)](https://pkmisha.com/)
+[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://pkmisha.com/)
 
 <br />
 
-[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://pkmisha.com/)
-
-A **Mobile Development** ***Enthusiast*** 🚀
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=283247&width=435&lines=Active+mobile+dev+enthusiast;Love+cross-platform+frameworks;Beautiful+designs+enjoyer)](https://git.io/typing-svg)
  
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
