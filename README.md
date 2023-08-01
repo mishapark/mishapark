@@ -1,8 +1,8 @@
 <h3 title="hehehe"> Hey 👋, I'm Misha!</h3>
 
 [![LinkedIn](https://img.shields.io/badge/--0A66C2?logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mikhailpak/)
-[![Twitter](https://img.shields.io/badge/--E4405F?logo=instagram&logoColor=ffffff)](https://instagram.com/_parkmisha)
-[![Instagram](https://img.shields.io/badge/--E4405F?logo=instagram&logoColor=ffffff)](https://pkmisha.com/)
+[![Instagram](https://img.shields.io/badge/--E4405F?logo=instagram&logoColor=ffffff)](https://instagram.com/_parkmisha)
+[![Twitter](https://img.shields.io/badge/--1D9BF0?logo=twitter&logoColor=ffffff)](https://pkmisha.com/)
 
 <br />
 
