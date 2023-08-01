@@ -1,12 +1,9 @@
 <h3 title="hehehe"> Hey 👋, I'm Misha!</h3>
 
-[![GitHub](https://img.shields.io/badge/--E4405F?logo=instagram&logoColor=ffffff)](https://instagram.com/_parkmisha)
-<a href="https://www.facebook.com/profile.php?id=100009175092863">
-  <img align="left" alt="Jaskirat's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://twitter.com/jas_script">
-  <img align="left" alt="Jaskirat's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/--E4405F?logo=instagram&logoColor=ffffff)](https://www.linkedin.com/in/mikhailpak/)
+[![Portfolio](https://img.shields.io/badge/--E4405F?logo=instagram&logoColor=ffffff)](https://pkmisha.com/)
+[![Twitter](https://img.shields.io/badge/--E4405F?logo=instagram&logoColor=ffffff)](https://instagram.com/_parkmisha)
+[![Instagram](https://img.shields.io/badge/--E4405F?logo=instagram&logoColor=ffffff)](https://pkmisha.com/)
 
 <br />
 <br />
