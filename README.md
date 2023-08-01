@@ -1,9 +1,7 @@
 <h3 title="hehehe"> Hey 👋, I'm Misha!</h3>
 
-<a href="https://www.linkedin.com/in/jaskirat-singh-009348178">
-  <svg>
-    <use href="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="--color_fill: #273146;"></use>
-  </svg>
+<a href="https://www.instagram.com/_parkmisha/">
+  <img align="left" alt="Misha's Instagram" width="24px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/jaskirat.mokha/">
   <img align="left" alt="Jaskirat's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
