@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mikhailpak/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://instagram.com/_parkmisha)
-[![Twitter](https://img.shields.io/badge/twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://pkmisha.com/)
+[![Twitter](https://img.shields.io/badge/twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=ffffff)]([https://pkmisha.com/](https://twitter.com/_mishapark))
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://pkmisha.com/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00b4ab&width=435&lines=Active+mobile+dev+enthusiast;Love+cross-platform+frameworks;Beautiful+designs+enjoyer)](https://git.io/typing-svg)
