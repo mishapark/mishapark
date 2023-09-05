@@ -49,7 +49,10 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## By the way here are some of my statistics 🚀
+### Open Source
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishapark&repo=smooth-app)](https://github.com/openfoodfacts/smooth-app)
+
+### By the way here are some of my statistics 🚀
 ![Misha's github stats](https://github-readme-stats.vercel.app/api?username=mishapark&show_icons=true&theme=tokyonight)
 <br />
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mishapark&theme=tokyonight)
