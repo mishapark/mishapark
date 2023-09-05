@@ -1,6 +1,7 @@
 ## Hey, I'm Misha! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 #### You can check out my latest work [here](https://github.com/mishapark/flutter-projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishapark&repo=flutter-projects)](https://github.com/mishapark/flutter-projects)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mikhailpak/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://instagram.com/_parkmisha)
@@ -47,17 +48,14 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
+### Open Source
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=openfoodfacts&repo=smooth-app&show_owner=true)](https://github.com/openfoodfacts/smooth-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flutter&repo=packages&show_owner=true)](https://github.com/flutter/packages)
+
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-### Open Source
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishapark&repo=smooth-app)](https://github.com/openfoodfacts/smooth-app)
-
 ### By the way here are some of my statistics 🚀
-![Misha's github stats](https://github-readme-stats.vercel.app/api?username=mishapark&show_icons=true&theme=tokyonight)
-<br />
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mishapark&theme=tokyonight)
-<br />
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishapark&theme=tokyonight&layout=compact)
+![Misha's github stats](https://github-readme-stats.vercel.app/api?username=mishapark&show_icons=true&theme=tokyonight) ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishapark&theme=tokyonight&layout=compact)
 
 
 
