@@ -1,6 +1,7 @@
 ## Hey, I'm Misha! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-#### You can check out my latest work [here](https://github.com/mishapark/flutter-projects)
+#### You can check out my latest work [here](https://github.com/mishapark/Trendify)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishapark&repo=Trendify)](https://github.com/mishapark/Trendify)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishapark&repo=flutter-projects)](https://github.com/mishapark/flutter-projects)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mikhailpak/)
@@ -15,7 +16,7 @@
 **About Me!**
 
 - 👨🏽‍💻 I’m currently working as a Product Analyst at CMiC
-- 🌱 Currently exploring **Flutter**, **React Native**, and **Swift**
+- 🌱 Currently exploring **SwiftUI/UIKit**, **Flutter**
 - 🤔 My interest lies in mobile development.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [packmisha@gmail.com](mailto:packmisha@gmail.com).
@@ -25,30 +26,31 @@
 **🔥 Languages**
 <br />
 
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **⚡ Frameworks** 
 <br />
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![SwiftUI](https://img.shields.io/badge/Swift_UI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UI_Kit-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **🧰 Tools**
 <br />
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![XCode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Open Source
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikaelacaron&repo=Basic-Car-Maintenance&show_owner=true)](https://github.com/mikaelacaron/Basic-Car-Maintenance)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AuroraEditor&repo=AuroraEditor&show_owner=true)](https://github.com/AuroraEditor/AuroraEditor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=openfoodfacts&repo=smooth-app&show_owner=true)](https://github.com/openfoodfacts/smooth-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flutter&repo=packages&show_owner=true)](https://github.com/flutter/packages)
 
