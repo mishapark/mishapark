@@ -1,7 +1,7 @@
 ## Hey, I'm Misha! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-#### You can check out my latest work [here](https://github.com/mishapark/Trendify)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishapark&repo=Trendify)](https://github.com/mishapark/Trendify)
+#### You can check out my latest work [here](https://github.com/mishapark/DotaTactix)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishapark&repo=DotaTactix)](https://github.com/mishapark/DotaTactix)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mikhailpak/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://instagram.com/_parkmisha)
